@@ -2,7 +2,7 @@
 
 这是一个用于使用Express构建web应用程序的样板工程，并在Typescript的帮助下做出反应。它被配置为将客户端JavaScript和CSS捆绑包以及您的文件作为asset分开。
 
-- [express-react-typescript-mongodb]
+- express-react-typescript-mongodb
   - 介绍
     - 开发模式
     - 生产模式
